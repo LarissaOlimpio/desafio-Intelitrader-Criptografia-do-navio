@@ -34,10 +34,9 @@ As seguintes tecnologias foram utilizadas no desenvolvimento da resolução dest
 ---
 
 ## ⚙️ Como Utilizar
-1. Abra o terminal e digite o comando: dotnet run Program.cs
-2. Após clicar na tecla enter do seu teclado o projeto será compilado e rodará com sucesso, deverá aparecer em seu terminal a frase: YOU ARE AWESOME
-3. Caso queira fazer o build manualmente antes de rodar o projeto é só digitar o comando: dotnet build
-4. Após rodar com sucesso digitar: dotnet run Program.cs
+1. Abra o terminal, certifique-se de estar dentro da pasta do projeto
+2. Digite o comando: dotnet run Program.cs
+3. Após clicar na tecla enter do seu teclado o projeto será compilado e rodará com sucesso.
 
    
 ---
