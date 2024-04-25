@@ -40,7 +40,7 @@ As seguintes tecnologias foram utilizadas no desenvolvimento da resolução dest
 
 ---
 ## 🔗 Link para acessar o desafio online
-**[Criptografia do navio](https://dotnetfiddle.net/lTn4y7)**
+- **[Criptografia do navio](https://dotnetfiddle.net/lTn4y7)**
    
 ---
 
