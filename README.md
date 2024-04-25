@@ -38,6 +38,9 @@ As seguintes tecnologias foram utilizadas no desenvolvimento da resolução dest
 2. Digite o comando: dotnet run Program.cs
 3. Após clicar na tecla enter do seu teclado o projeto será compilado e rodará com sucesso.
 
+---
+## 🔗 Link para acessar o desafio online
+**[Criptografia do navio](https://dotnetfiddle.net/lTn4y7)**
    
 ---
 
